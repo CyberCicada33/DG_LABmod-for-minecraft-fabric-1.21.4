@@ -1,3 +1,13 @@
+# Modifications to DG_LAB
+Original project: https://github.com/CaiJi-ikun/DG_LAB
+Original license: GNU General Public License v3.0
+
+## 修改记录
+- 修改时间：2026-02-24
+- 修改人：Cyber_Cicada_
+- 修改内容：
+  将该项目的支持版本修改为1.21.4-fabric
+
 # **DG\_LAB Fabric Mod**
 
 _This mod is developed for Minecraft's Fabric loader, enabling connectivity between the game and DG\_LAB devices._
@@ -91,3 +101,4 @@ _本模组为《我的世界》Fabric端开发，可实现游戏与DG\_LAB终端
 *   波形自定义界面 - 设置发送的波形具体参数。在波形设置界面内打开
     
     ![波形自定义界面](https://media.forgecdn.net/attachments/description/1233394/description_f2ab6882-1783-40d8-86f2-35e8b1a3a8aa.png)
+
