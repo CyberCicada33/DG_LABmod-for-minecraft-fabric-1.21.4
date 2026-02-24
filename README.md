@@ -1,3 +1,4 @@
+If the original author requests removal, this repository will be taken down.
 # Modifications to DG_LAB
 Original project: https://github.com/CaiJi-ikun/DG_LAB
 Original license: GNU General Public License v3.0
@@ -97,5 +98,6 @@ _本模组为《我的世界》Fabric端开发，可实现游戏与DG\_LAB终端
 *   波形自定义界面 - 设置发送的波形具体参数。在波形设置界面内打开
     
     ![波形自定义界面](https://media.forgecdn.net/attachments/description/1233394/description_f2ab6882-1783-40d8-86f2-35e8b1a3a8aa.png)
+
 
 
